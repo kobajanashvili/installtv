@@ -25,40 +25,10 @@
     "category": "softssss"
     },
     {
-    "title": "KODI 19 DV",
-    "description": "KODI для Dloby Vision",
-    "url": "https://tecnozon.h1n.ru/kodi19dv.apk",
-    "mirror": "https://technozon.s-host.net/kodi19dv.apk",
-    "category": "Плеер"
-    },
-    {
-    "title": "LAMPA",
-    "description": "Кинозал для всех платформ, нужен ТОРРСЕРВ. ЗАЖАТЬ ДЛЯ ОБЗОРА",
-    "url": "https://technozon.s-host.net/lampa.apk",
-    "app_review": "https://youtu.be/PkyII9XC7o8",
-    "category": "Кинозал"
-    },
-    {
     "title": "Deeplex",
     "description": "Кинозал для Андроид ТВ, нужен ТОРРСЕРВ.",
     "url": "https://technozon.s-host.net/deeplex.apk",
     "category": "Кинозал"
-    },
-    {
-    "title": "VOKINO",
-    "description": "Онлайн кинотеатр для тв боксов VPLAY 2",
-    "url": "https://tecnozon.h1n.ru/vokino.apk",
-    "mirror": "https://technozon.s-host.net/vokino.apk",
-    "app_review": "https://youtu.be/zaQfMnxNSyU",
-    "category": "Кинозал"
-    },
-    {
-    "title": "OpenVPN обход блокировок на Андроид",
-    "description": "Обход блокировок в UA и RU нужны файлы конфигурации. ЗАЖАТЬ ДЛЯ ОБЗОРА",
-    "url": "https://tecnozon.h1n.ru/openvpn.apk",
-    "mirror": "https://technozon.s-host.net/openvpn.apk",
-    "app_review": "https://youtu.be/TTM1ekrQw8U",
-    "category": "Обход блокировок"
     }
     ]
     }
