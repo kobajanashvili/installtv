@@ -7,14 +7,6 @@
     "mirror": "https://technozon.s-host.net/TorrServer-android-arm7.so",
     "app_review": "https://youtu.be/TTM1ekrQw8U",
     "category": "Обход блокировок"
-    },
-    {
-    "title": "Файл Сервера TORRSERV ARM64 ",
-    "description": "Файл для ручной установки TORRSERVE 64 bit",
-    "url": "https://tecnozon.h1n.ru/TorrServer-android-arm64.so",
-    "mirror": "https://technozon.s-host.net/TorrServer-android-arm64.so",
-    "app_review": "https://youtu.be/TTM1ekrQw8U",
-    "category": "Обход блокировок"
     }
     ],
     "apps": [
@@ -22,13 +14,13 @@
     "title": "Intra",
     "description": "Intra test",
     "url": "https://mega.nz/file/ALhElSIK#5RP8vMYVKvkDfdXzZO8kM0Iu0EMqh8g19XUkLOVQHoM",
-    "category": "softssss"
+    "category": "soft"
     },
     {
     "title": "Deeplex",
     "description": "Кинозал для Андроид ТВ, нужен ТОРРСЕРВ.",
     "url": "https://technozon.s-host.net/deeplex.apk",
-    "category": "Кинозал"
+    "category": "soft"
     }
     ]
     }
