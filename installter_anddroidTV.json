@@ -1,8 +1,8 @@
 {
     "apps": [
     {
-    "title": "isrtv",
-    "description": "isrtv",
+    "title": "IsrTV",
+    "description": "IsrTV",
     "url": "https://www98.zippyshare.com/d/TlazFrJc/24026/Isratv_3_54.apk",
     "category": "TV"
     },
@@ -16,6 +16,18 @@
     "title": "HDVideoBox",
     "description": "Fix 2.31_03.05.22",
     "url": "https://www63.zippyshare.com/d/9o4xE26w/3719/hdvideobox-2.31-fix-03052022.apk",
+    "category": "Movie"
+    },
+    {
+    "title": "HDrezka-app",
+    "description": "ver. 2.1.4",
+    "url": "https://www38.zippyshare.com/d/3Lenf10V/18594/HDrezka-app-2.1.4.apk",
+    "category": "Movie"
+    },
+    {
+    "title": "--",
+    "description": "-----------",
+    "url": "-------------------",
     "category": "Movie"
     }
     ]
