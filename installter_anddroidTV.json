@@ -15,29 +15,14 @@
     "mirror": "https://technozon.s-host.net/TorrServer-android-arm64.so",
     "app_review": "https://youtu.be/TTM1ekrQw8U",
     "category": "Обход блокировок"
-    },
-    {
-    "title": "Файл ANTIZAPRET для OPEN VPN",
-    "description": "Обход блокировок в России ЗАЖАТЬ ДЛЯ ОБЗОРА",
-    "url": "https://antizapret.prostovpn.org/antizapret-tcp.ovpn",
-    "app_review": "https://youtu.be/TTM1ekrQw8U",
-    "category": "Обход блокировок"
-    },
-    {
-    "title": "Файл ZABORONA для OPEN VPN",
-    "description": "Обход блокировок в Украине ЗАЖАТЬ ДЛЯ ОБЗОРА",
-    "url": "https://zaborona.help/openvpn-client-config/zaborona-help_maxroutes.ovpn",
-    "app_review": "https://youtu.be/TTM1ekrQw8U",
-    "category": "Обход блокировок"
     }
     ],
     "apps": [
     {
-    "title": "Telegram АТВ",
-    "description": "Телеграм для АТВ тв боксов. Нужна аэромышь",
-    "url": "https://tecnozon.h1n.ru/telegramatv.apk",
-    "mirror": "https://technozon.s-host.net/telegramatv.apk",
-    "category": "Соцмедиа"
+    "title": "Intra",
+    "description": "Intra test",
+    "url": "https://mega.nz/file/ALhElSIK#5RP8vMYVKvkDfdXzZO8kM0Iu0EMqh8g19XUkLOVQHoM",
+    "category": "softssss"
     },
     {
     "title": "KODI 19 DV",
